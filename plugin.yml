@@ -1,0 +1,4 @@
+name: disablenicks
+main: DisableNicksPlugin
+version: 1.0
+author: sturm
